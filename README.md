@@ -6,7 +6,7 @@
 - 📫 Feel free to reach me in any of the medias linked below!
 - ⚡ Fun fact: My nickname is from the game Tribal Wars, back in 2008, and follows me ever since.
 
-
+---
 
 <!--
 - 🔭 I’m currently working on ...
@@ -32,7 +32,7 @@
 </div>
 
 ###
-
+---
 <div align="left">
   <a href="https://discord.com/users/Canudin#2556" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
