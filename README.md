@@ -2,9 +2,10 @@
 ### I'm Giovanni Marcatto!
 
 - 😄 Pronouns: He/His.
-- 🌱 Currently a FullStack Web Development Student.
+- 🌱 Age: 24.
+- 🚀 Currently: FullStack Web Development Student.
 - 📫 Feel free to reach me in any of the medias linked below!
-- ⚡ Fun fact: My nickname is from the game Tribal Wars, back in 2008, and follows me ever since.
+- ⚡ Fun fact: My nickname dates since the game Tribal Wars, back in 2008ish, and follows me ever since.
 
 ---
 
