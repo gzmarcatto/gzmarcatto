@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 🖖
 ### I'm Giovanni Marcatto!
 
 - 😄 Pronouns: He/His.
