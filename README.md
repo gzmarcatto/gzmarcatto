@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/His.
 - 🌱 Age: 26.
-- 🚀 Currently: FullStack Web Development Student.
+- 🚀 FullStack Web Developer.
 - 📫 Feel free to reach me in any of the medias linked below!
 
 ---
